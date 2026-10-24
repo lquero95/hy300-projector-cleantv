@@ -1,0 +1,12 @@
+# Gradle & Android build artifacts
+launcher/.gradle/
+launcher/build/
+launcher/app/build/
+launcher/local.properties
+*.iml
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+ProjectivyLauncher.apk

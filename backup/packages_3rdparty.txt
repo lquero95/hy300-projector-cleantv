@@ -1,0 +1,8 @@
+package:de.szalkowski.activitylauncher.oss
+package:com.aispeech.tvui
+package:com.tv.client.droid.nexocine
+package:com.netflix.mediaclient
+package:com.yablio.sendfilestotv
+package:com.google.android.youtube.tv
+package:com.esaba.downloader
+package:com.rockchip.itvbox

@@ -1,0 +1,37 @@
+{
+  "columns": 6,
+  "rows_below_dock": 0,
+  "dock_row": true,
+  "dock_title": true,
+  "always_show_names": true,
+  "fill_dock": true,
+  "animations": true,
+  "advanced_effects": true,
+  "reduced_motion": false,
+  "ambient_glow": false,
+  "sky_intensity": 0,
+  "cinematic_home": false,
+  "app_library": true,
+  "library_button": false,
+  "reorder_button": false,
+  "show_network_pill": true,
+  "icon_only_buttons": false,
+  "show_home_settings_shortcut": false,
+  "settings_key_panel": false,
+  "dock_apps": [
+    "com.google.android.youtube.tv",
+    "com.netflix.mediaclient",
+    "com.android.vending",
+    "com.rockchips.mediacenter",
+    "com.esaba.downloader",
+    "com.android.tv.settings"
+  ],
+  "hidden_apps": [
+    "de.szalkowski.activitylauncher.oss"
+  ],
+  "app_labels": [
+    "com.android.tv.settings=Proyección",
+    "com.android.tv.set=Ajustes Android",
+    "com.rockchips.mediacenter=Archivos"
+  ]
+}
